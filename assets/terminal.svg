@@ -1,64 +1,69 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Terminal: whoami and open ports gen-ai, cybersecurity, ai-ml">
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360" role="img" aria-label="Terminal: whoami and focus areas gen-ai, cybersecurity, ai-ml">
   <defs>
-    <clipPath id="c0"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0321;1" dur="15.6s" begin="t.begin+0.4s"/></rect></clipPath>
-    <clipPath id="c1"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0169;1" dur="14.8s" begin="t.begin+1.2s"/></rect></clipPath>
-    <clipPath id="c2"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0714;1" dur="14s" begin="t.begin+2s"/></rect></clipPath>
-    <clipPath id="c3"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0159;1" dur="12.6s" begin="t.begin+3.4s"/></rect></clipPath>
-    <clipPath id="c4"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0163;1" dur="12.3s" begin="t.begin+3.7s"/></rect></clipPath>
-    <clipPath id="c5"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0167;1" dur="12s" begin="t.begin+4s"/></rect></clipPath>
-    <clipPath id="c6"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0171;1" dur="11.7s" begin="t.begin+4.3s"/></rect></clipPath>
-    <clipPath id="c7"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0556;1" dur="10.8s" begin="t.begin+5.2s"/></rect></clipPath>
-    <clipPath id="c8"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0306;1" dur="9.8s" begin="t.begin+6.2s"/></rect></clipPath>
-    <clipPath id="c9"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0319;1" dur="9.4s" begin="t.begin+6.6s"/></rect></clipPath>
-    <clipPath id="c10"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0174;1" dur="8.6s" begin="t.begin+7.4s"/></rect></clipPath>
+    <clipPath id="c0"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0284;1" dur="17.6s" begin="t.begin+0.4s"/></rect></clipPath>
+    <clipPath id="c1"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0149;1" dur="16.8s" begin="t.begin+1.2s"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0625;1" dur="16s" begin="t.begin+2s"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0137;1" dur="14.6s" begin="t.begin+3.4s"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.014;1" dur="14.3s" begin="t.begin+3.7s"/></rect></clipPath>
+    <clipPath id="c5"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0143;1" dur="14s" begin="t.begin+4s"/></rect></clipPath>
+    <clipPath id="c6"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0146;1" dur="13.7s" begin="t.begin+4.3s"/></rect></clipPath>
+    <clipPath id="c7"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0469;1" dur="12.8s" begin="t.begin+5.2s"/></rect></clipPath>
+    <clipPath id="c8"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0254;1" dur="11.8s" begin="t.begin+6.2s"/></rect></clipPath>
+    <clipPath id="c9"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0263;1" dur="11.4s" begin="t.begin+6.6s"/></rect></clipPath>
+    <clipPath id="c10"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0273;1" dur="11s" begin="t.begin+7s"/></rect></clipPath>
+    <clipPath id="c11"><rect x="0" y="0" height="360" width="0"><animate attributeName="width" values="0;1000;1000" keyTimes="0;0.0147;1" dur="10.2s" begin="t.begin+7.8s"/></rect></clipPath>
   </defs>
   <style>
     .mono{font-family:Consolas,'SFMono-Regular',Menlo,'Courier New',monospace}
-    .caret{animation:blink 1s steps(1) infinite}
+    .caret{animation:blink 1.1s steps(1) infinite}
     @keyframes blink{50%{opacity:0}}
   </style>
-  <!-- master clock: every line re-types on each 16s loop -->
-  <rect width="0" height="0"><animate id="t" attributeName="x" from="0" to="1" begin="0s;t.end" dur="16s"/></rect>
+  <!-- master clock: every line re-types on each 18s loop -->
+  <rect width="0" height="0"><animate id="t" attributeName="x" from="0" to="1" begin="0s;t.end" dur="18s"/></rect>
 
-  <rect x=".5" y=".5" width="999" height="359" rx="14" fill="#0b0f19" stroke="#ffffff" stroke-opacity=".1"/>
-  <path d="M.5 40V14.5A14 14 0 0 1 14.5 .5h971a14 14 0 0 1 14 14V40Z" fill="#151b2b"/>
-  <circle cx="26" cy="20" r="6" fill="#ff5f57"/><circle cx="46" cy="20" r="6" fill="#febc2e"/><circle cx="66" cy="20" r="6" fill="#28c840"/>
-  <text class="mono" x="500" y="25" text-anchor="middle" font-size="13" fill="#64748b">saksham@kali: ~</text>
+  <rect x=".5" y=".5" width="999" height="359" rx="12" fill="#0a1114" stroke="#1b2a2e"/>
+  <path d="M.5 38V12.5A12 12 0 0 1 12.5 .5h975a12 12 0 0 1 12 12V38Z" fill="#0e181b"/>
+  <line x1=".5" y1="38" x2="999.5" y2="38" stroke="#1b2a2e"/>
+  <circle cx="24" cy="19" r="5" fill="#243438"/><circle cx="42" cy="19" r="5" fill="#243438"/><circle cx="60" cy="19" r="5" fill="#243438"/>
+  <text class="mono" x="500" y="24" text-anchor="middle" font-size="12" fill="#5b6e74">saksham@kali: ~</text>
 
-  <g class="mono" font-size="15">
+  <g class="mono" font-size="14.5">
   <g clip-path="url(#c0)">
-    <text x="28" y="80" xml:space="preserve"><tspan fill="#34d399" font-weight="700">saksham@kali</tspan><tspan fill="#e2e8f0">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#e2e8f0">$ </tspan><tspan fill="#f8fafc">whoami</tspan></text>
+    <text x="28" y="76" xml:space="preserve"><tspan fill="#a3e635">saksham@kali</tspan><tspan fill="#5b6e74">:</tspan><tspan fill="#1fa2b0">~</tspan><tspan fill="#5b6e74">$ </tspan><tspan fill="#e5eef0">whoami</tspan></text>
   </g>
   <g clip-path="url(#c1)">
-    <text x="28" y="104" xml:space="preserve"><tspan fill="#cbd5e1">Saksham Singh — CSE (Data Science) student · builder · defender</tspan></text>
+    <text x="28" y="99" xml:space="preserve"><tspan fill="#b8c7cb">Saksham Singh · B.Tech CSE (Data Science) · ABES Institute of Technology</tspan></text>
   </g>
   <g clip-path="url(#c2)">
-    <text x="28" y="128" xml:space="preserve"><tspan fill="#34d399" font-weight="700">saksham@kali</tspan><tspan fill="#e2e8f0">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#e2e8f0">$ </tspan><tspan fill="#f8fafc">nmap -sV --top-ports 3 saksham</tspan></text>
+    <text x="28" y="122" xml:space="preserve"><tspan fill="#a3e635">saksham@kali</tspan><tspan fill="#5b6e74">:</tspan><tspan fill="#1fa2b0">~</tspan><tspan fill="#5b6e74">$ </tspan><tspan fill="#e5eef0">nmap -sV --top-ports 3 saksham</tspan></text>
   </g>
   <g clip-path="url(#c3)">
-    <text x="28" y="152" xml:space="preserve"><tspan fill="#64748b" font-weight="700">PORT       STATE     SERVICE         DETAILS</tspan></text>
+    <text x="28" y="145" xml:space="preserve"><tspan fill="#5b6e74">PORT       STATE     SERVICE         VERSION</tspan></text>
   </g>
   <g clip-path="url(#c4)">
-    <text x="28" y="176" xml:space="preserve"><tspan fill="#94a3b8">443/tcp    </tspan><tspan fill="#34d399">open      </tspan><tspan fill="#c4b5fd" font-weight="700">gen-ai          </tspan><tspan fill="#94a3b8">llms · agents · vertex ai</tspan></text>
+    <text x="28" y="168" xml:space="preserve"><tspan fill="#8a9da3">443/tcp    </tspan><tspan fill="#a3e635">open      </tspan><tspan fill="#1fa2b0" font-weight="700">gen-ai          </tspan><tspan fill="#8a9da3">llms · agents · vertex ai</tspan></text>
   </g>
   <g clip-path="url(#c5)">
-    <text x="28" y="200" xml:space="preserve"><tspan fill="#94a3b8">22/tcp     </tspan><tspan fill="#34d399">open      </tspan><tspan fill="#6ee7b7" font-weight="700">cybersecurity   </tspan><tspan fill="#94a3b8">pentest · recon · secure code</tspan></text>
+    <text x="28" y="191" xml:space="preserve"><tspan fill="#8a9da3">22/tcp     </tspan><tspan fill="#a3e635">open      </tspan><tspan fill="#1fa2b0" font-weight="700">cybersecurity   </tspan><tspan fill="#8a9da3">pentest · recon · secure code</tspan></text>
   </g>
   <g clip-path="url(#c6)">
-    <text x="28" y="224" xml:space="preserve"><tspan fill="#94a3b8">8080/tcp   </tspan><tspan fill="#fbbf24">learning  </tspan><tspan fill="#fcd34d" font-weight="700">ai-ml           </tspan><tspan fill="#94a3b8">beginner · pytorch · vision</tspan></text>
+    <text x="28" y="214" xml:space="preserve"><tspan fill="#8a9da3">8080/tcp   </tspan><tspan fill="#6fa8b0">learning  </tspan><tspan fill="#1fa2b0" font-weight="700">ai-ml           </tspan><tspan fill="#8a9da3">beginner · pytorch · vision</tspan></text>
   </g>
   <g clip-path="url(#c7)">
-    <text x="28" y="248" xml:space="preserve"><tspan fill="#34d399" font-weight="700">saksham@kali</tspan><tspan fill="#e2e8f0">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#e2e8f0">$ </tspan><tspan fill="#f8fafc">cat now.txt</tspan></text>
+    <text x="28" y="237" xml:space="preserve"><tspan fill="#a3e635">saksham@kali</tspan><tspan fill="#5b6e74">:</tspan><tspan fill="#1fa2b0">~</tspan><tspan fill="#5b6e74">$ </tspan><tspan fill="#e5eef0">cat focus.txt</tspan></text>
   </g>
   <g clip-path="url(#c8)">
-    <text x="28" y="272" xml:space="preserve"><tspan fill="#22d3ee">▸ </tspan><tspan fill="#cbd5e1">building agentic AI tools with Gemini &amp; Vertex AI</tspan></text>
+    <text x="28" y="260" xml:space="preserve"><tspan fill="#1fa2b0">- </tspan><tspan fill="#b8c7cb">building agentic AI tools with Gemini and Vertex AI</tspan></text>
   </g>
   <g clip-path="url(#c9)">
-    <text x="28" y="296" xml:space="preserve"><tspan fill="#22d3ee">▸ </tspan><tspan fill="#cbd5e1">practising offense &amp; defense on HackTheBox / TryHackMe</tspan></text>
+    <text x="28" y="283" xml:space="preserve"><tspan fill="#1fa2b0">- </tspan><tspan fill="#b8c7cb">practising offensive and defensive security on HTB / THM</tspan></text>
   </g>
   <g clip-path="url(#c10)">
-    <text x="28" y="320" xml:space="preserve"><tspan fill="#34d399" font-weight="700">saksham@kali</tspan><tspan fill="#e2e8f0">:</tspan><tspan fill="#60a5fa">~</tspan><tspan fill="#e2e8f0">$ </tspan></text>
-    <rect class="caret" x="162" y="306" width="9" height="17" fill="#e2e8f0"/>
+    <text x="28" y="306" xml:space="preserve"><tspan fill="#1fa2b0">- </tspan><tspan fill="#b8c7cb">strengthening machine learning fundamentals</tspan></text>
+  </g>
+  <g clip-path="url(#c11)">
+    <text x="28" y="329" xml:space="preserve"><tspan fill="#a3e635">saksham@kali</tspan><tspan fill="#5b6e74">:</tspan><tspan fill="#1fa2b0">~</tspan><tspan fill="#5b6e74">$ </tspan></text>
+    <rect class="caret" x="157" y="316" width="8" height="16" fill="#a3e635"/>
   </g>
   </g>
 </svg>
