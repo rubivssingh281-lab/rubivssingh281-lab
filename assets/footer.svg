@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Thanks for visiting">
+  <defs>
+    <linearGradient id="w" x1="0" x2="1">
+      <stop offset="0" stop-color="#a78bfa"/>
+      <stop offset=".5" stop-color="#22d3ee"/>
+      <stop offset="1" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .sans{font-family:'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif}
+    .wave{animation:wave 10s linear infinite}
+    .w2{animation-duration:14s;animation-direction:reverse}
+    @keyframes wave{to{transform:translateX(-1000px)}}
+    .fade{animation:fade 4s ease-in-out infinite}
+    @keyframes fade{0%,100%{opacity:.55}50%{opacity:1}}
+  </style>
+  <g opacity=".35">
+    <path class="wave w2" fill="url(#w)" d="M0 95 Q125 70 250 95 T500 95 T750 95 T1000 95 T1250 95 T1500 95 T1750 95 T2000 95 V140 H0Z"/>
+  </g>
+  <g opacity=".6">
+    <path class="wave" fill="url(#w)" d="M0 110 Q125 88 250 110 T500 110 T750 110 T1000 110 T1250 110 T1500 110 T1750 110 T2000 110 V140 H0Z"/>
+  </g>
+  <text class="sans fade" x="500" y="48" text-anchor="middle" font-size="18" fill="#94a3b8">Thanks for visiting · stay curious, stay secure</text>
+</svg>
