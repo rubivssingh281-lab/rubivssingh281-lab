@@ -51,7 +51,7 @@ Computer Science (Data Science) undergraduate at ABES Institute of Technology, w
 Performed internal and external vulnerability assessments on client networks, identifying 15+ critical issues. Validated findings with Metasploit and Burp Suite and delivered remediation reports to IT leads.
 
 **Web Development Intern**, Vault of Codes · *Jun – Aug 2026*<br/>
-Built a climate-risk dashboard delivering live weather alerts to farmers, and a portfolio and booking site for a studio client.
+Built a climate-risk dashboard delivering live weather alerts to farmers and a photoshoot booking site for a real studio client, a personal portfolio.
 
 ### Certifications
 
