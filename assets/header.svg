@@ -51,7 +51,7 @@
 
     <g class="rise d3">
       <circle class="dot" cx="64" cy="215" r="3.5" fill="#a3e635"/>
-      <text class="sans" x="76" y="220" font-size="14" fill="#8a9da3">ABES Institute of Technology, Ghaziabad  ·  Smart India Hackathon 2025</text>
+      <text class="sans" x="76" y="220" font-size="14" fill="#8a9da3">ABES Institute of Technology, Ghaziabad·</text>
     </g>
 
     <!-- right: network motif -->
