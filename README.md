@@ -17,7 +17,7 @@
 
 ### About
 
-Computer Science (Data Science) undergraduate at ABES Institute of Technology, working at the intersection of **Generative AI** and **cybersecurity**, and building my foundations in **machine learning**. I've completed a cybersecurity internship that included vulnerability assessments of client networks, competed in **Smart India Hackathon 2025**, and hold certifications from Google, Cisco, IBM and Infosys.
+Computer Science (Data Science) undergraduate at ABES Institute of Technology, working at the intersection of **Generative AI** and **cybersecurity**, and building my foundations in **machine learning**. I've completed a cybersecurity internship that included vulnerability assessments of client networks, competed in **Smart India Hackathon 2025 and 2026**, and hold certifications from Google, Cisco, IBM and Infosys refering to my core Technical skills.
 
 ### Core focus
 
