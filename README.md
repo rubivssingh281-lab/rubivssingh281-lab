@@ -43,7 +43,6 @@ Computer Science (Data Science) undergraduate at ABES Institute of Technology, w
 | **[Ediglobe Secure](https://github.com/rubivssingh281-lab/MajorProjectEdiglobe)** | Security | Authentication system with bcrypt, rate limiting, XSS sanitisation, audit logging and account lockout | Node.js · Express · MySQL |
 | **[GeoSat](https://github.com/rubivssingh281-lab/GeoSat)** | AI / ML | SAR-to-optical satellite image retrieval with a dual-encoder ResNet18 (InfoNCE loss) behind a Flask API | PyTorch · Torchvision · Flask |
 | **[Bhu-Darpan](https://github.com/rubivssingh281-lab/Bhu-Darpan)** | AI / ML | Satellite analysis for land-cover mapping, object detection and change tracking, with PDF reporting | U-Net · SegFormer · YOLOv11 |
-| **Alumno Connect** | Full-stack | Smart India Hackathon 2025: alumni–student platform with mentorship, events and real-time chat | React · Node.js · Socket.io |
 
 ### Experience
 
