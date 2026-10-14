@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="./assets/header.svg" width="100%" alt="Saksham Singh — Generative AI · Cybersecurity · AI/ML"/>
-
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/saksham-singh-6371133ab"><img src="https://img.shields.io/badge/LinkedIn-0E181B?style=for-the-badge&logo=linkedin&logoColor=1FA2B0" alt="LinkedIn"/></a>
