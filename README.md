@@ -20,7 +20,7 @@ Computer Science (Data Science) undergraduate at ABES Institute of Technology, w
 
 ### Core focus
 
-<img src="./assets/core-skills.svg" width="100%" alt="Generative AI · Cybersecurity · AI/ML (beginner)"/>
+<img src="./assets/core-skills.svg" width="100%" alt="Generative AI · Cybersecurity · AI/ML (learning beginner)"/>
 
 ### Toolkit
 
