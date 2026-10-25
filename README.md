@@ -78,7 +78,7 @@ Built a climate-risk dashboard delivering live weather alerts to farmers and a p
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=rubivssingh281-lab&background=0A1114&border=1B2A2E&stroke=1B2A2E&ring=1FA2B0&fire=A3E635&currStreakNum=E5EEF0&sideNums=E5EEF0&currStreakLabel=1FA2B0&sideLabels=8A9DA3&dates=5B6E74" width="80%" alt="GitHub streak"/>
+<img src="https://streak-stats.demolab.com/?user=rubivssingh281-lab&background=0A1114&border=1B2A2E&stroke=1B2A2E&ring=1FA2B0&fire=A3E635&currStreakNum=E5EEF0&sideNums=E5EEF0&currStreakLabel=1FA2B0&sideLabels=8A9DA3&dates=5B6E74" width="80%" alt="GitHub streak"/>
 
 <br/><br/>
 
